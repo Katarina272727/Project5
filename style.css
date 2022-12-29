@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(22, 28, 211);
+}
+
+.type_pic {
+    height: 500px;
+    width: 500px;
+    border: solid red 10px; 
+    border-radius: 100%;
+
+}
+
+a {
+    color: rgb(7, 81, 241);
+    text-decoration: none;
+}
+
+h1{
+    color: palevioletred;
+    
+}
+
+    .lalala_pic article :hover {
+    height: 630px;
+    width: 630px;
+    border: solid rgb(235, 36, 102) 25px;
+    border-radius: 35%;
+
+    }
+
+    a{
+        color: blueviolet;
+        text-decoration: double;
+    }
+
+    h1{
+        color: rgb(4, 83, 110);
+    }
+
+    .twlg_pic {
+        height: 145px;
+        width: 145px;
+        border: solid lightblue 47px;
+        border-radius: 50%;
+    }
